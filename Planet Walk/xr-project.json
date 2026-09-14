@@ -1,0 +1,29 @@
+{
+  "kit": "classvr-prototyping-kit",
+  "name": "Planet Walk",
+  "slug": "planet-walk",
+  "concept": "Walk the path past the eight planets; step up to one to light it and read its sign. Visit all eight to finish.",
+  "dof": 6,
+  "created": "2026-09-14T13:49:58Z",
+  "build": 1,
+  "sourceHash": "d0078138155b552007a94adb3626f97e6594ca227ffdc80ce44362cb3f2983b7",
+  "libraries": [
+    "aframe"
+  ],
+  "classcloud": {
+    "organizationId": null,
+    "playlistId": null,
+    "playlistName": "XR Prototypes",
+    "activityId": null,
+    "lastPublished": null,
+    "lastUrl": null,
+    "qrPayload": null
+  },
+  "artifact": {
+    "url": "https://claude.ai/code/artifact/75752433-c521-4b21-b646-8ea8df3df5e3",
+    "owner": "luke.moseley@avantiseducation.com",
+    "build": 1,
+    "lastShared": "2026-09-14T14:09:53Z",
+    "mailbox": true
+  }
+}
